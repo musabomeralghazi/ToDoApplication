@@ -1,0 +1,6 @@
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\bin\Debug\TodoApplication.exe.config
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\bin\Debug\TodoApplication.exe
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\bin\Debug\TodoApplication.pdb
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\obj\Debug\TodoApplication.csprojResolveAssemblyReference.cache
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\obj\Debug\TodoApplication.exe
+c:\users\ابو عبدالله\documents\visual studio 2015\Projects\TodoApplication\TodoApplication\obj\Debug\TodoApplication.pdb
